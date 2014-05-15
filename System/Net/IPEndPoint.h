@@ -1,4 +1,4 @@
-#ifdef AAAA
+#ifdef A
 #pragma once
 #include <System/System.h>
 #include "EndPoint.h"

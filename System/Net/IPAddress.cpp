@@ -1,4 +1,4 @@
-#ifdef AAAA
+#ifdef A
 #include "IPAddress.h"
 namespace System {
 	namespace Net {
